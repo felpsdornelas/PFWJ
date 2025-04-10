@@ -60,3 +60,5 @@ window.addEventListener("DOMContentLoaded", function(){
      mediaSalarioMasc.textContent = `Média do sálario masculino: R$ ${mediaSalarioMasc1.toFixed(2)}`;
      mediaSalarioFem.textContent = `Média do sálario masculino: R$ ${mediaSalarioFem1.toFixed(2)}`;
 });
+
+
